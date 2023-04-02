@@ -9,11 +9,19 @@ The dataset used in this project is sourced from Flixable, a third-party Netflix
 
 ## Data Pipeline:
 1.Know your data
+
 2.Understanding Variables
+
 3.Data Wrangling
+
 4.Exploratory Data Analysis
+
 5.Hypothesis Testing
+
 6.Feature Engineering/Data Preprocessing
+
 7.Model Implementation
+
 8.Conclusion
+
 
