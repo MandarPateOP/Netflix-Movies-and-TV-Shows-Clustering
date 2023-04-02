@@ -46,7 +46,7 @@ The dataset used in this project is sourced from Flixable, a third-party Netflix
 
 10) most of the content related to Life, Love , Family, Friend , World words.
 
-11)Top TV Shows actors are from all around the world but Movies actors are all from India.
+11) Top TV Shows actors are from all around the world but Movies actors are all from India.
 
 12) TFIDF Vectorization created 10000 dimensions. Then problem of dimensionality was treated by PCA(Principle Component Analysis) .3000 dimensions taken because of adding almost 80% of variance to it.
 
