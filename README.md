@@ -24,4 +24,32 @@ The dataset used in this project is sourced from Flixable, a third-party Netflix
 
 8.Conclusion
 
+## Report:
+
+1) There are 7787 rows and 12 columns in the dataset.
+
+2) Netflix having content from year 1925 to 2021
+
+3) Netflix having 30.9% of TV Shows and 69.1% of Movies on its platform
+
+4) Adults and Teens contents getting most of ratings
+
+5) Both Movies & TV Shows productions/releases got boomed after year 2000 but Movies had more as compare to TV Shows.
+
+6) Content after year 2015 increases more(almost doubled).
+
+7) There is no such difference in releases for when compared monthwise.
+
+8) International movies, dramas, comedy is prefred the most while TV Thriller, Classic & Cult TV , TV Shows are at last .
+
+9) United States and India having more content with US having equal number of tv shows and movies while in India number of movies are more as compared to tvshows.
+
+10) most of the content related to Life, Love , Family, Friend , World words.
+
+11)Top TV Shows actors are from all around the world but Movies actors are all from India.
+
+12) TFIDF Vectorization created 10000 dimensions. Then problem of dimensionality was treated by PCA(Principle Component Analysis) .3000 dimensions taken because of adding almost 80% of variance to it.
+
+13) Implemented K-Means Clustering ,Agglomerative clustering , DB-Scan algorithms.
+
 
